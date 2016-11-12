@@ -9,5 +9,5 @@ package com.owen.mysimpleblog.domain;
  */
 public class Blog
 {
-    private Integer id;
+    private Integer id;///、、、、、、ff
 }
